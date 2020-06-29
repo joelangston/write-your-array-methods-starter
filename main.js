@@ -11,3 +11,23 @@ function newForEach(array, callback){
         callback(currentItem, index, array)
     }
 }
+function newSome (array, callback){
+
+
+}
+function newEvery (array, callback){
+
+}
+function newFind (array, callback){
+
+}
+
+function newFindIndex (array, callback){
+
+}
+function newMap (array, callback){
+
+}
+function newFilter (array, callback) {
+
+}
